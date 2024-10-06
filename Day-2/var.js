@@ -45,4 +45,24 @@ let a='  30 days of python';
 console.log(a.trim());
 //  30 days of python
 
+console.log(string.startsWith(30));
+//  true
+
+console.log(string.endsWith("Script"));
+// VM1686:1 true
+
+console.log(string.match('a'));
+// VM1728:1 ['a', index: 4, input: '30 Days Of JavaScript', groups: undefined]
+
+
+let b='30 Days of';
+
+let c='JavaScript';
+
+console.log(b.concat(' ',c));
+// 30 Days of JavaScript
+
+console.log(string.repeat(2));
+//  30 Days Of JavaScript30 Days Of JavaScript
+
 
