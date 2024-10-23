@@ -1,5 +1,5 @@
 let myage=25;
-let yourage=prompt(“Enter your age:”);
+let yourage=prompt("Enter your age:");
 if (myage>yourage) {
     console.log(`I am ${myage-yourage} years older than you.`)
 }
