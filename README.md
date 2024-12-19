@@ -1,1 +1,1 @@
-# avaScript
+#JavaScript
