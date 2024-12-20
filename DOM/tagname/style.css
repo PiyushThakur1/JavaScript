@@ -1,0 +1,13 @@
+.heading-class { 
+    color: aqua;
+    background-color: yellow;
+}
+
+body{
+    background-color: pink;
+}
+
+button{
+    background-color: red;
+    color: green;
+}
